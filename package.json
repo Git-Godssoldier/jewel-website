@@ -1,0 +1,8 @@
+{
+  "name": "jewel-website",
+  "version": "1.0.0",
+  "description": "A simple static website",
+  "scripts": {
+    "build": "echo 'No build required for static site'"
+  }
+}

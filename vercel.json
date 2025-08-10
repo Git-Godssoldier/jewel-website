@@ -1,6 +1,7 @@
 {
-  "buildCommand": "",
-  "installCommand": "",
+  "buildCommand": "echo 'No build required'",
+  "installCommand": "echo 'No install required'",
   "outputDirectory": ".",
-  "framework": null
+  "framework": null,
+  "functions": {}
 }
